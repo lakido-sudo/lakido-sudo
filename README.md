@@ -59,7 +59,6 @@
 [![Agile](https://img.shields.io/badge/Agile-lightgrey?style=flat)](https://en.wikipedia.org/wiki/Agile_software_development)
 [![Scrum](https://img.shields.io/badge/Scrum-lightgrey?style=flat)](https://en.wikipedia.org/wiki/Scrum_(software_development))
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakido-sudo&layout=compact)](https://github.com/lakido-sudo/github-readme-stats)
 
 ### Поддержать автора
 
@@ -70,6 +69,8 @@
 
 ---
 [![GitHub followers](https://img.shields.io/github/followers/lakido?style=social)](https://github.com/lakido?tab=followers)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakido-sudo&layout=compact)](https://github.com/lakido-sudo/github-readme-stats)
 
 
 
