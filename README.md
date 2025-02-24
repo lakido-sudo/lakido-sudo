@@ -68,7 +68,5 @@
 
 ---
 [![GitHub followers](https://img.shields.io/github/followers/lakido?style=social)](https://github.com/lakido?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/lakido/your_repo?style=social)](https://github.com/lakido/your_repo/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/lakido/your_repo?style=social)](https://github.com/lakido/your_repo/network/members)
-[![GitHub watchers](https://img.shields.io/github/watchers/lakido/your_repo?style=social)](https://github.com/lakido/your_repo/watchers)
+
 
