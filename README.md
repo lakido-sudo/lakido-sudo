@@ -78,7 +78,12 @@
 
 ### Поддержать автора
 
-Если вам нравится моя работа, вы можете поддержать меня:
+Если Вы нашли тут что-то полезное для себя, то можете поддержать меня:
+
+[![Донат на DonationAlerts](https://img.shields.io/badge/%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C-%D0%BD%D0%B0%20DonationAlerts-orange)](https://www.donationalerts.com/r/lakidos)
+
+[![Поддержать на Boosty](https://img.shields.io/badge/%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C-%D0%BD%D0%B0%20Boosty-blue)](https://boosty.to/lakidos/donate)
+
 
 [![Донат на DonationAlerts](https://img.shields.io/badge/%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C-%D0%BD%D0%B0%20DonationAlerts-orange)](https://www.donationalerts.com/r/lakidos)
 
