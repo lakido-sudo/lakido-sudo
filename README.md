@@ -67,11 +67,14 @@
 [![Донат на DonationAlerts](https://img.shields.io/badge/%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C-%D0%BD%D0%B0%20DonationAlerts-orange)](https://www.donationalerts.com/r/lakidos)
 [![Поддержать на Boosty](https://img.shields.io/badge/%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C-%D0%BD%D0%B0%20Boosty-blue)](https://boosty.to/lakidos/donate)
 
+Вы также можете попробовать стать миллионером в этой игре! 💰 [![Играть сейчас](https://img.shields.io/badge/Играть%20сейчас-blue)](https://yandex.ru/games/app/366809?lang=ru)
+
 ---
+
+
 [![GitHub followers](https://img.shields.io/github/followers/lakido?style=social)](https://github.com/lakido?tab=followers)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakido-sudo&layout=compact)](https://github.com/lakido-sudo/github-readme-stats)
-
 
 
 
