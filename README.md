@@ -59,6 +59,8 @@
 [![Agile](https://img.shields.io/badge/Agile-lightgrey?style=flat)](https://en.wikipedia.org/wiki/Agile_software_development)
 [![Scrum](https://img.shields.io/badge/Scrum-lightgrey?style=flat)](https://en.wikipedia.org/wiki/Scrum_(software_development))
 
+#### **Дополнительно**
+[![Godot Engine](https://img.shields.io/badge/Godot%20Engine-478CBF?style=flat&logo=godot-engine&logoColor=white)](https://godotengine.org/)
 
 ### Поддержать автора
 
