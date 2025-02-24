@@ -1,7 +1,7 @@
-Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Меня зовут  Кирилл
+Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Меня зовут Кирилл
 =====================================================================================================================================
 
-И я Software Engeneer
+И я Software Engineer
 -----------------
 
 А точнее разработчик полного цикла, обладающий навыками проектирования и моделирования объектов различной сложности. Мой опыт включает успешную реализацию множества проектов от концепции до завершения, включая оптимизацию существующих решений для повышения производительности.
@@ -11,43 +11,75 @@
 * ✉️ Почта: [lakido551@gmail.com](mailto:lakido551@gmail.com)
 
 ## Мой стек технологий
-### Разработка
 
-**1. Python**  
-🐍 Python | 🕸️ Django | 🧪 Flask | 📱 Kivy | ⚡ FastAPI | 🧪 PyTest | 🔍 unittest | ⏳ Asyncio | 📊 NumPy | 🥣 BeautifulSoup | 🐌 Celery | 📦 Pandas | ✅ Flake8
+### **Разработка**
 
-**2. HTML/CSS/JavaScript**  
-🌐 HTML | 🎨 CSS | ☕ JavaScript | 📜 PyScript | 🐍 Brython | ⚛️ React | 🌲 Vue.js | 📚 jQuery | 🚀 Bootstrap
+#### **Python**
+- 🐍 Python
+- 🕸️ Django
+- 🧪 Flask
+- 📱 Kivy
+- ⚡ FastAPI
+- 🧪 PyTest
+- 🔍 unittest
+- ⏳ Asyncio
+- 📊 NumPy
+- 🥣 BeautifulSoup
+- 🐌 Celery
+- 📦 Pandas
+- ✅ Flake8
 
-### БД/СУБД
+#### **HTML/CSS/JavaScript**
+- 🌐 HTML
+- 🎨 CSS
+- ☕ JavaScript
+- 📜 PyScript
+- 🐍 Brython
+- ⚛️ React
+- 🌲 Vue.js
+- 📚 jQuery
+- 🚀 Bootstrap
 
-**1. SQLite**  
-🗄️ SQLite
+### **Базы данных**
 
-**2. MySQL**  
-🐬 MySQL
+#### **SQLite**
+- 🗄️ SQLite
 
-**3. PostgreSQL**  
-🐘 PostgreSQL  
-🔗 Sqlite3 | 🔌 MySQL Connector/Python | 🐍 Psycopg2 | 🔄 SQLAlchemy
+#### **MySQL**
+- 🐬 MySQL
 
-### Остальное
+#### **PostgreSQL**
+- 🐘 PostgreSQL
+- 🔗 Sqlite3
+- 🔌 MySQL Connector/Python
+- 🐍 Psycopg2
+- 🔄 SQLAlchemy
 
-**1. Git**  
-🔧 Git
+### **Инструменты**
 
-**2. Docker/Compose**  
-🐳 Docker/Compose
+#### **Git**
+- 🔧 Git
 
-**3. CI/CD**  
-🔄 CI/CD
+#### **Docker/Compose**
+- 🐳 Docker/Compose
 
-**4. Redis**  
-🗄️ Redis
+#### **CI/CD**
+- 🔄 CI/CD
 
-### Методологии
+#### **Redis**
+- 🗄️ Redis
 
-🚀 Agile | 📅 Scrum
+### **Методологии**
 
+- 🚀 Agile
+- 📅 Scrum
 
+---
 
+### Поддержать автора
+
+Если вам нравится моя работа, вы можете поддержать меня:
+
+[![Донат на DonationAlerts](https://img.shields.io/badge/%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C-%D0%BD%D0%B0%20DonationAlerts-orange)](https://www.donationalerts.com/r/lakidos)
+
+[![Поддержать на Boosty](https://img.shields.io/badge/%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C-%D0%BD%D0%B0%20Boosty-blue)](https://boosty.to/lakidos/donate)
