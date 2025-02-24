@@ -1,6 +1,6 @@
 Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Меня зовут Кирилл
 =====================================================================================================================================
-> ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JoYml0bHl2bXpoeGpsdWRwYW5pY29lcTV2bjV5OXM2Z3VwbmVqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+ ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JoYml0bHl2bXpoeGpsdWRwYW5pY29lcTV2bjV5OXM2Z3VwbmVqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
 
 
