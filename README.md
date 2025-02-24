@@ -1,18 +1,21 @@
 Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Меня зовут Кирилл
 =====================================================================================================================================
+> ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JoYml0bHl2bXpoeGpsdWRwYW5pY29lcTV2bjV5OXM2Z3VwbmVqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+
+
 
 И я Software Engineer
 -----------------
 
 А точнее разработчик полного цикла, обладающий навыками проектирования и моделирования объектов различной сложности. Мой опыт включает успешную реализацию множества проектов от концепции до завершения, включая оптимизацию существующих решений для повышения производительности.
 
+
+
 ### Контакты 🇷🇺
 
 [![Telegram](https://img.shields.io/badge/Telegram-@lakido-2CA5E4?style=flat&logo=telegram)](https://t.me/lakido)
 
 [![Email](https://img.shields.io/badge/Email-lakido551@gmail.com-D44638?style=flat&logo=gmail)](mailto:lakido551@gmail.com)
-
-
 
 
 
@@ -63,4 +66,9 @@
 [![Донат на DonationAlerts](https://img.shields.io/badge/%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C-%D0%BD%D0%B0%20DonationAlerts-orange)](https://www.donationalerts.com/r/lakidos)
 [![Поддержать на Boosty](https://img.shields.io/badge/%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C-%D0%BD%D0%B0%20Boosty-blue)](https://boosty.to/lakidos/donate)
 
+---
+[![GitHub followers](https://img.shields.io/github/followers/lakido?style=social)](https://github.com/lakido?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/lakido/your_repo?style=social)](https://github.com/lakido/your_repo/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/lakido/your_repo?style=social)](https://github.com/lakido/your_repo/network/members)
+[![GitHub watchers](https://img.shields.io/github/watchers/lakido/your_repo?style=social)](https://github.com/lakido/your_repo/watchers)
 
